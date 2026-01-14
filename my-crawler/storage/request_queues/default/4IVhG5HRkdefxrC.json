@@ -1,0 +1,9 @@
+{
+	"id": "4IVhG5HRkdefxrC",
+	"json": "{\"id\":\"4IVhG5HRkdefxrC\",\"url\":\"https://www.dcmotorsales.ca/trade-in-appraisal/\",\"loadedUrl\":\"https://www.dcmotorsales.ca/trade-in-appraisal/\",\"uniqueKey\":\"https://www.dcmotorsales.ca/trade-in-appraisal\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:12:27.897Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/trade-in-appraisal",
+	"url": "https://www.dcmotorsales.ca/trade-in-appraisal/"
+}

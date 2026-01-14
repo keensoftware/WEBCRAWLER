@@ -1,0 +1,9 @@
+{
+	"id": "9qe44m4kBmh5Jm9",
+	"json": "{\"id\":\"9qe44m4kBmh5Jm9\",\"url\":\"https://www.dcmotorsales.ca/book-a-test-drive?inventory_id=202\",\"loadedUrl\":\"https://www.dcmotorsales.ca/book-a-test-drive/?inventory_id=202\",\"uniqueKey\":\"https://www.dcmotorsales.ca/book-a-test-drive?inventory_id=202\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:13:19.612Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/book-a-test-drive?inventory_id=202",
+	"url": "https://www.dcmotorsales.ca/book-a-test-drive?inventory_id=202"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "ICaHPA8FbYDi3EJ",
+	"json": "{\"id\":\"ICaHPA8FbYDi3EJ\",\"url\":\"https://www.dcmotorsales.ca/inventory/\",\"loadedUrl\":\"https://www.dcmotorsales.ca/inventory/\",\"uniqueKey\":\"https://www.dcmotorsales.ca/inventory\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:12:25.808Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/inventory",
+	"url": "https://www.dcmotorsales.ca/inventory/"
+}

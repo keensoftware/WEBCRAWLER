@@ -1,0 +1,9 @@
+{
+	"id": "39FXTWJf9RS5nCE",
+	"json": "{\"id\":\"39FXTWJf9RS5nCE\",\"url\":\"https://www.dcmotorsales.ca/inventory/?refinementList[body_type][0]=Truck&refinementList[body_type][0]=Pickup%20Truck&refinementList[body_type][0]=Pickup-Truck&refinementList[body_type][0]=pickup-truck&refinementList[body_type][0]=Trucks&refinementList[body_type][0]=Commercial%20Vehicle\",\"loadedUrl\":\"https://www.dcmotorsales.ca/inventory/?refinementList[body_type][0]=Truck&refinementList[body_type][0]=Pickup%20Truck&refinementList[body_type][0]=Pickup-Truck&refinementList[body_type][0]=pickup-truck&refinementList[body_type][0]=Trucks&refinementList[body_type][0]=Commercial%20Vehicle\",\"uniqueKey\":\"https://www.dcmotorsales.ca/inventory?refinementList%5Bbody_type%5D%5B0%5D=Truck&refinementList%5Bbody_type%5D%5B0%5D=Pickup+Truck&refinementList%5Bbody_type%5D%5B0%5D=Pickup-Truck&refinementList%5Bbody_type%5D%5B0%5D=pickup-truck&refinementList%5Bbody_type%5D%5B0%5D=Trucks&refinementList%5Bbody_type%5D%5B0%5D=Commercial+Vehicle\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:12:36.414Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/inventory?refinementList%5Bbody_type%5D%5B0%5D=Truck&refinementList%5Bbody_type%5D%5B0%5D=Pickup+Truck&refinementList%5Bbody_type%5D%5B0%5D=Pickup-Truck&refinementList%5Bbody_type%5D%5B0%5D=pickup-truck&refinementList%5Bbody_type%5D%5B0%5D=Trucks&refinementList%5Bbody_type%5D%5B0%5D=Commercial+Vehicle",
+	"url": "https://www.dcmotorsales.ca/inventory/?refinementList[body_type][0]=Truck&refinementList[body_type][0]=Pickup%20Truck&refinementList[body_type][0]=Pickup-Truck&refinementList[body_type][0]=pickup-truck&refinementList[body_type][0]=Trucks&refinementList[body_type][0]=Commercial%20Vehicle"
+}

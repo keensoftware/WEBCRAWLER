@@ -1,0 +1,9 @@
+{
+	"id": "FGoYjyYr0chTZiU",
+	"json": "{\"id\":\"FGoYjyYr0chTZiU\",\"url\":\"https://www.dcmotorsales.ca/reviews/\",\"loadedUrl\":\"https://www.dcmotorsales.ca/reviews/\",\"uniqueKey\":\"https://www.dcmotorsales.ca/reviews\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:12:30.554Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/reviews",
+	"url": "https://www.dcmotorsales.ca/reviews/"
+}

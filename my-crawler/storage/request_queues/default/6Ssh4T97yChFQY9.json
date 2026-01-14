@@ -1,0 +1,9 @@
+{
+	"id": "6Ssh4T97yChFQY9",
+	"json": "{\"id\":\"6Ssh4T97yChFQY9\",\"url\":\"https://www.dcmotorsales.ca/inventory/?refinementList[body_type][0]=Sport%20Utility%20Vehicle&refinementList[body_type][0]=SUV-Crossover&refinementList[body_type][0]=Suv&refinementList[body_type][0]=SUV&refinementList[body_type][0]=Suvs&refinementList[body_type][0]=Sport%20Utility%204-Door\",\"loadedUrl\":\"https://www.dcmotorsales.ca/inventory/?refinementList[body_type][0]=Sport%20Utility%20Vehicle&refinementList[body_type][0]=SUV-Crossover&refinementList[body_type][0]=Suv&refinementList[body_type][0]=SUV&refinementList[body_type][0]=Suvs&refinementList[body_type][0]=Sport%20Utility%204-Door\",\"uniqueKey\":\"https://www.dcmotorsales.ca/inventory?refinementList%5Bbody_type%5D%5B0%5D=Sport+Utility+Vehicle&refinementList%5Bbody_type%5D%5B0%5D=SUV-Crossover&refinementList%5Bbody_type%5D%5B0%5D=Suv&refinementList%5Bbody_type%5D%5B0%5D=SUV&refinementList%5Bbody_type%5D%5B0%5D=Suvs&refinementList%5Bbody_type%5D%5B0%5D=Sport+Utility+4-Door\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:12:34.649Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/inventory?refinementList%5Bbody_type%5D%5B0%5D=Sport+Utility+Vehicle&refinementList%5Bbody_type%5D%5B0%5D=SUV-Crossover&refinementList%5Bbody_type%5D%5B0%5D=Suv&refinementList%5Bbody_type%5D%5B0%5D=SUV&refinementList%5Bbody_type%5D%5B0%5D=Suvs&refinementList%5Bbody_type%5D%5B0%5D=Sport+Utility+4-Door",
+	"url": "https://www.dcmotorsales.ca/inventory/?refinementList[body_type][0]=Sport%20Utility%20Vehicle&refinementList[body_type][0]=SUV-Crossover&refinementList[body_type][0]=Suv&refinementList[body_type][0]=SUV&refinementList[body_type][0]=Suvs&refinementList[body_type][0]=Sport%20Utility%204-Door"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "mulkFIW6jgXblUn",
+	"json": "{\"id\":\"mulkFIW6jgXblUn\",\"url\":\"https://www.dcmotorsales.ca/\",\"loadedUrl\":\"https://www.dcmotorsales.ca/\",\"uniqueKey\":\"https://www.dcmotorsales.ca\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2025-03-05T23:12:23.625Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca",
+	"url": "https://www.dcmotorsales.ca/"
+}

@@ -1,0 +1,9 @@
+{
+	"id": "3ucJkC3z64TXiz7",
+	"json": "{\"id\":\"3ucJkC3z64TXiz7\",\"url\":\"https://www.dcmotorsales.ca/payment-calculator/\",\"loadedUrl\":\"https://www.dcmotorsales.ca/payment-calculator/\",\"uniqueKey\":\"https://www.dcmotorsales.ca/payment-calculator\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:12:29.292Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/payment-calculator",
+	"url": "https://www.dcmotorsales.ca/payment-calculator/"
+}

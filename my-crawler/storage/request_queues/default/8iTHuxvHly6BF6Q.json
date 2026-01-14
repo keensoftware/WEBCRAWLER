@@ -1,0 +1,9 @@
+{
+	"id": "8iTHuxvHly6BF6Q",
+	"json": "{\"id\":\"8iTHuxvHly6BF6Q\",\"url\":\"https://www.dcmotorsales.ca/site-map\",\"loadedUrl\":\"https://www.dcmotorsales.ca/site-map/\",\"uniqueKey\":\"https://www.dcmotorsales.ca/site-map\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:12:37.281Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/site-map",
+	"url": "https://www.dcmotorsales.ca/site-map"
+}

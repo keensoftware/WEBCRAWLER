@@ -1,0 +1,9 @@
+{
+	"id": "CmPq50kLlMzr93c",
+	"json": "{\"id\":\"CmPq50kLlMzr93c\",\"url\":\"https://www.dcmotorsales.ca/inventory/?refinementList[body_type][0]=Minivan&refinementList[body_type][0]=Van&refinementList[body_type][0]=Minivan-Van&refinementList[body_type][0]=minivan\",\"loadedUrl\":\"https://www.dcmotorsales.ca/inventory/?refinementList[body_type][0]=Minivan&refinementList[body_type][0]=Van&refinementList[body_type][0]=Minivan-Van&refinementList[body_type][0]=minivan\",\"uniqueKey\":\"https://www.dcmotorsales.ca/inventory?refinementList%5Bbody_type%5D%5B0%5D=Minivan&refinementList%5Bbody_type%5D%5B0%5D=Van&refinementList%5Bbody_type%5D%5B0%5D=Minivan-Van&refinementList%5Bbody_type%5D%5B0%5D=minivan\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:12:34.494Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/inventory?refinementList%5Bbody_type%5D%5B0%5D=Minivan&refinementList%5Bbody_type%5D%5B0%5D=Van&refinementList%5Bbody_type%5D%5B0%5D=Minivan-Van&refinementList%5Bbody_type%5D%5B0%5D=minivan",
+	"url": "https://www.dcmotorsales.ca/inventory/?refinementList[body_type][0]=Minivan&refinementList[body_type][0]=Van&refinementList[body_type][0]=Minivan-Van&refinementList[body_type][0]=minivan"
+}

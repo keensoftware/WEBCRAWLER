@@ -1,0 +1,9 @@
+{
+	"id": "prepK3TSwnil91C",
+	"json": "{\"id\":\"prepK3TSwnil91C\",\"url\":\"https://www.dcmotorsales.ca/about-us/\",\"loadedUrl\":\"https://www.dcmotorsales.ca/about-us/\",\"uniqueKey\":\"https://www.dcmotorsales.ca/about-us\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:12:29.655Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/about-us",
+	"url": "https://www.dcmotorsales.ca/about-us/"
+}

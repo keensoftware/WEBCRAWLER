@@ -1,0 +1,9 @@
+{
+	"id": "ILeQ5MhcSDtc9di",
+	"json": "{\"id\":\"ILeQ5MhcSDtc9di\",\"url\":\"https://www.dcmotorsales.ca/inventory/2016-ford-focus-se-only-65-000-kms---warranty-included/137/\",\"loadedUrl\":\"https://www.dcmotorsales.ca/inventory/2016-ford-focus-se-only-65-000-kms---warranty-included/137/\",\"uniqueKey\":\"https://www.dcmotorsales.ca/inventory/2016-ford-focus-se-only-65-000-kms---warranty-included/137\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:12:44.647Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/inventory/2016-ford-focus-se-only-65-000-kms---warranty-included/137",
+	"url": "https://www.dcmotorsales.ca/inventory/2016-ford-focus-se-only-65-000-kms---warranty-included/137/"
+}

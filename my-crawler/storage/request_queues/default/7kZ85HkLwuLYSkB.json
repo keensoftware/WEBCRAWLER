@@ -1,0 +1,9 @@
+{
+	"id": "7kZ85HkLwuLYSkB",
+	"json": "{\"id\":\"7kZ85HkLwuLYSkB\",\"url\":\"https://www.dcmotorsales.ca/finance?inventory_id=221\",\"loadedUrl\":\"https://www.dcmotorsales.ca/finance/?inventory_id=221\",\"uniqueKey\":\"https://www.dcmotorsales.ca/finance?inventory_id=221\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"enqueueStrategy\":\"same-hostname\",\"state\":4}},\"handledAt\":\"2025-03-05T23:12:55.092Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://www.dcmotorsales.ca/finance?inventory_id=221",
+	"url": "https://www.dcmotorsales.ca/finance?inventory_id=221"
+}
